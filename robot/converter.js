@@ -10,7 +10,7 @@ async function robot() {
                     if (err) throw err;
                 });
 
-                converter.convert(`${home}/videos/${fileName[0]}`, `${home}/musicas/${fileName[0].replace('.mp4', '.mp3').replace('A1A1-', '')}`, function (err) {
+                converter.convert(`${home}/videos/${fileName[0]}`, `${home}/musics/${fileName[0].replace('.mp4', '.mp3').replace('A1A1-', '')}`, function (err) {
                     if (err) throw err;
                     console.log("> Video successfully downloaded");
                 });
