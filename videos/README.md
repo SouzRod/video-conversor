@@ -1,2 +1,2 @@
 # videos
-pasta para salvar o vídeo que vai ser baixado
+folder to save the video to be downloaded
