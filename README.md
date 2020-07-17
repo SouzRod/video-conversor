@@ -1,7 +1,7 @@
 # video-conversor
 Application that downloads youtube video and converts it to mp3
 
----
+
 ## Steps to run this project:
 
 1. Run npm i
@@ -9,7 +9,7 @@ Application that downloads youtube video and converts it to mp3
 
 > To run this application it is necessary to install [ffmpeg](https://ffmpeg.org/download.html) on your machine to convert the videos
 
----
+
 ## dependencies
 
 1. [readline-sync](https://www.npmjs.com/package/readline-sync)
