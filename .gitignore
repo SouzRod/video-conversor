@@ -1,0 +1,5 @@
+node_modules/
+
+musicas/*.mp3
+
+videos/*.mp4
