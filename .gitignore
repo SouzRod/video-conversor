@@ -1,5 +1,7 @@
 node_modules/
 
-musicas/*.mp3
+musics/*.mp3
 
 videos/*.mp4
+
+package-lock.json
