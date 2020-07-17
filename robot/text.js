@@ -1,7 +1,7 @@
 const { question } = require('readline-sync')
 
 function robot() {
-    return question('Digite o link do vídeo do youtube: ')
+    return question('> Enter the youtube video link: ')
 }
 
 module.exports = robot
